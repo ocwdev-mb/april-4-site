@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/april-4-site/image1.png
+file: /courses/20230404-april-4-course-spring-2027/image1.png
 file_type: image/png
 image_metadata:
   caption: ''
